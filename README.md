@@ -3,7 +3,7 @@
 This repository contains raw data for evaluating LLM debugging capabilities across different models. <br>
 The data is 169 single-line bugs of Defects4J(v3.0.1)
 
-## Models Tested
+## Models 
 
 ### Ko-LLMs
 - ax: `A.X-4.0-Light`
